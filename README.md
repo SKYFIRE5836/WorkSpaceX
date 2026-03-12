@@ -1,4 +1,8 @@
 # 🚀 WorkSpace X
+![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Release](https://img.shields.io/badge/Release-v1.0.0-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 **你的专属工作空间一键启动引擎** | **Your Custom Workspace Launcher**
 
